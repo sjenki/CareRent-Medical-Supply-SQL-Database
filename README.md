@@ -1,5 +1,11 @@
 # CareRent Medical Supply Database
 
+## Project Files
+
+This repository contains the complete SQL project, including the database schema, sample data, SQL queries, Entity Relationship Diagram (ERD), and supporting documentation. Download the project files to explore the database design and execute the SQL scripts in **MySQL Workbench**.
+
+---
+
 ## Overview
 
 This portfolio project demonstrates the design and implementation of a relational database for a fictional durable medical equipment (DME) company. The database was developed to manage medical equipment rentals, patient information, insurance providers, deliveries, and rental agreements while supporting business reporting and operational analysis through SQL.
